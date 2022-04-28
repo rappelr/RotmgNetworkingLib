@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>0.0.2</Version>
+    <Authors>QR9</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="QR9ProxyLib">
+      <HintPath>..\..\QR9ProxyLib\QR9ProxyLib\bin\Debug\netstandard2.1\QR9ProxyLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
